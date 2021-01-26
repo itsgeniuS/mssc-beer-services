@@ -1,2 +1,3 @@
-# mssc-beer-services
-Spring boot learning project
+# MSSC Beer Services
+
+    Spring boot learning project
